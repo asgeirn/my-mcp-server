@@ -24,8 +24,8 @@ dependencies {
     testImplementation("io.quarkus:quarkus-junit5")
 }
 
-group = "no.twingine"
-version = "1.0.0-SNAPSHOT"
+group = "no.twingine.mcp"
+version = "0-SNAPSHOT"
 
 java {
     sourceCompatibility = JavaVersion.VERSION_21
